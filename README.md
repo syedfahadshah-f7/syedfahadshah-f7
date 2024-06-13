@@ -1,4 +1,4 @@
-![Header](https://github.com/syedfahadshah-f7/syedfahadshah-f7/blob/main/github-header-image%20(1).png)
+![Header](https://github.com/syedfahadshah-f7/syedfahadshah-f7/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Syed Fahad Shah</h1>
 <h3 align="center">A passionate Programmer and AI Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
